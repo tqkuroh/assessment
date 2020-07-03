@@ -1,0 +1,16 @@
+body {
+    background-color: #04A6EB; /*背景の色*/
+    color: #FDFFFF; /*文字の色*/
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 5px 20px;
+    background-color: #337AB7;
+    border-style: none; /*ボタンと背景の境界部分*/
+    color: #FDFFFF;
+}
+input {
+    height: 24px;
+}
